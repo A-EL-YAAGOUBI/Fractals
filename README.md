@@ -1,0 +1,3 @@
+# Fractals
+Fractals are geometrical figures with mind blowing properties. They may appear in unsuspected places and sometimes they have incredible applications in our daily lives.
+I will try to add some cool examples when I can make the time ...
